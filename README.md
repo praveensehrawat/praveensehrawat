@@ -141,6 +141,16 @@ Full Stack Developer • MERN Stack • Python • AI Enthusiast
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/praveensehrawat/praveensehrawat/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
