@@ -67,20 +67,13 @@ Full Stack Developer • MERN Stack • Python • AI Enthusiast
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://www.linkedin.com/in/praveen-sehrawat-3502a428b"/>
 </a>
 
-<a href="https://github.com/praveensehrawat">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:your-email@example.com">
+<a href="mailto:pits48617@email.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
 
 </p>
 
