@@ -62,19 +62,23 @@ Full Stack Developer • MERN Stack • Python • AI Enthusiast
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://www.linkedin.com/in/praveen-sehrawat-3502a428b"/>
+<a href="mailto:pits48617@email.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
 </a>
 
-<a href="mailto:pits48617@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.linkedin.com/in/praveen-sehrawat-3502a428b" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
+</p>
 
+<p align="center">
+📧 <b>Email:</b> pits48617@email.com &nbsp; | &nbsp;
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/praveen-sehrawat-3502a428b">Praveen Sehrawat</a>
 </p>
 
 ---
