@@ -11,7 +11,7 @@ Hi 👋, I'm Praveen Sehrawat
 </h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack • Python • AI Enthusiast
+Full Stack Developer • MERN Stack •JAVA • Python • AI Enthusiast
 </h3>
 
 <p align="center">
